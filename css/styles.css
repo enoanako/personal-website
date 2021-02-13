@@ -74,6 +74,31 @@ p {
   margin-right: 30px;
 }
 
+.project-row {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.cards-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.game-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.password-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 .top-container {
   background-color: #e8ffff;
   position: relative;
